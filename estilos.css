@@ -27,13 +27,13 @@ justify-content:center;flex-direction:column;text-align:center;}
 footer .redes-sociales{display:flex;align-content:center;justify-content:center;padding:10px;flex-wrap:wrap;}
 footer .redes-sociales a{display:block;width:60px;height:60px;background:#000;color:#fff;margin:20px;text-align:center;border-radius:70px;transition: .3s ease
 all;}
-footer .redes-sociales .facebook{background:#68421D;}
-footer .redes-sociales .instagram{background:#68421D;}
-footer .redes-sociales .whatsapp{background:#68421D;}
-footer .redes-sociales .gmail{background:#68421D;}
+footer .redes-sociales .facebook{background:#000000;}
+footer .redes-sociales .instagram{background:#000000;}
+footer .redes-sociales .whatsapp{background:#000000;}
+footer .redes-sociales .gmail{background:#000000;}
 footer .redes-sociales a i {font-size:20px;line-height:60px;}
 footer .contenedor-icono:hover a{animation: icono .5s ease;}
-footer .creado-por{margin-bottom:40px;text-align:center;font-size:14px;color:#68421D;}
+footer .creado-por{margin-bottom:40px;text-align:center;font-size:14px;color:#000000;}
 h3{font-size:18px;font-weight:700;}
 
 @keyframes icono{
